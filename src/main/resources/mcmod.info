@@ -1,0 +1,16 @@
+[
+{
+  "modid": "runicmagic",
+  "name": "Runic Magic Mod",
+  "description": "Magic Mod with Ancient Runes",
+  "version": "Alpha 0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SuperStarMario2"],
+  "credits": "SuperStarMario2 - Head Dev",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
