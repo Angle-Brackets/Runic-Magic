@@ -9,7 +9,7 @@ import net.minecraftforge.common.util.EnumHelper;
 import superstarmario.runicmagicmod.items.ItemChisel;
 import superstarmario.runicmagicmod.items.ItemRune;
 
-
+//DEPRECATED (I forgot to remove it)
 public class ModItems {
 
 	//death
