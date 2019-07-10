@@ -1,8 +1,9 @@
-package SuperStarMario2.runicmagicmod.tabs;
+package superstarmario.runicmagicmod.tabs;
 
-import SuperStarMario2.runicmagicmod.init.ModItems;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
+import superstarmario.runicmagicmod.RunicMagicMod;
+import superstarmario.runicmagicmod.init.ModItems;
 
 public class RunicTab extends CreativeTabs{
 
@@ -12,6 +13,6 @@ public class RunicTab extends CreativeTabs{
 	}
 	
 	public ItemStack getTabIconItem(){
-			return new ItemStack(ModItems.BLANK_RUNE);
+			return new ItemStack(RunicMagicMod.rune, 1, 0);
 	}
 }

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  D",
+        "   ",
+        "C  "
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "runicmagic:stone_chisel",
+            "data": 32767
+        },
+        
+        "D":
+        {
+            "item": "minecraft:brick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:potato",
+        "count": 512
+    }
+}

@@ -3,6 +3,8 @@ itemGroup.runictab=Runic Magic
 
 //Item Names
 
-item.blankRune.name=Blank Rune
-item.damagedRune.name=Damaged Rune
-item.ancientRune.name=Ancient Rune
+item.blank_rune.name=Blank Rune
+item.damaged_rune.name=Damaged Rune
+item.ancient_rune.name=Ancient Rune
+item.rune_of_knowledge.name=Rune of Knowledge
+item.stone_chisel.name=Stone Chisel
